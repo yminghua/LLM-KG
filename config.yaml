@@ -1,0 +1,8 @@
+# Neo4j database configuration
+neo4j_config:
+  url: "neo4j+s://your-neo4j-URL"
+  username: "neo4j"
+  password: "your-neo4j-password"
+
+# Openai API key
+openai_api_key: "your-openai-api-key"
